@@ -1,4 +1,5 @@
-Welcome to REST-Rant!!
+# Welcome to REST-Rant!!
+
 A platform where you can search and/or post reviews about local eateries and share your experience! This app was built with the intention to provide a means for users to share thier honest thoughts about thier experience at local cafes and eateries wile also giving exposure to small businesses. Come on over to rest-rant and share your thoughts on local eateries wether good or bad. All feedback is welcome!
 
 
