@@ -1,3 +1,10 @@
+Welcome to REST-Rant!!
+A platform where you can search and/or post reviews about local eateries and share your experience! This app was built with the intention to provide a means for users to share thier honest thoughts about thier experience at local cafes and eateries wile also giving exposure to small businesses. Come on over to rest-rant and share your thoughts on local eateries wether good or bad. All feedback is welcome!
+
+
+![Green Blue Anime Female avatar](https://github.com/aminatol/rest-rant-monorepo-1/assets/99936622/cd991fa1-f567-491f-b3d0-be9fc9be2fc4)
+
+
 # Project REST-Rant
 REST-Rant is an app where users can review restaurants.
 
